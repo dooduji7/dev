@@ -1,6 +1,6 @@
 
 # def all_check(lst):
-#     return len(lst) == len(set(lst))
+#     eturn len(lst) == len(set(lst))
 
 
 # x = [1,2,3,4]
@@ -16,10 +16,10 @@
 
 #문자열 첫글자 대문자로 만들기 
 # def Make_Upper(str):
-#     return  str[0:1].upper() +  str[1:]
+#     eturn  str[0:1].upper() +  str[1:]
 
 # def Make_Upper2(str):
-#     return str.title()
+#     eturn str.title()
 
 
 # print(Make_Upper("test String")) 
@@ -28,7 +28,7 @@
 
 #섭씨온도 화씨온도로 변경 
 # def celsius_to_fahrenheit(celsius):
-#     return ((celsius * 1.8 ) +32 )
+#     eturn ((celsius * 1.8 ) +32 )
 
 # convert_value = celsius_to_fahrenheit(100)
 
@@ -37,7 +37,7 @@
 #remove Falsey Value  from list 
 
 # def compact(lst): 
-#     return list(filter(None,lst))
+#     eturn list(filter(None,lst))
 
 
 # test= [0,1,2,3,4,'',False]
@@ -47,12 +47,33 @@
 # print(result)
 
 
-def first_word(text: str) -> :
+def first_word(text: str):
     """
         returns the first word in a given text.
     """
     # your code here
     return text[0:1]
 
-    print(first_word("Hello world"))
+print(first_word("vim 너무 어렵다 " ))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
