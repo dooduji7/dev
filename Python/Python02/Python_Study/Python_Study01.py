@@ -48,34 +48,10 @@
 
 
 
-def first_word(text: str):
-    """
-        returns the first word in a given text.
-    """
-    # your code here
-    return text[0:1]
-
-print(first_word("vim 너무 어렵다 " ))
 
 
+print("C:\\Windows")
 
+print("naver","kakao","samsung",sep="/")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print(
