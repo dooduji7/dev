@@ -53,5 +53,3 @@
 print("C:\\Windows")
 
 print("naver","kakao","samsung",sep="/")
-
-print(
